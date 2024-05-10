@@ -1,0 +1,11 @@
+build:
+  version: "1.0.0"
+
+accounts:
+  message: "Hey, welcome to JavaExpress accounts APIs"
+  contactDetails:
+    name: "Sanjay - Product Owner"
+    email: "sanjay@gmail.com"
+  onCallSupport:
+    - (453) 392-4829
+    - (236) 203-0384
