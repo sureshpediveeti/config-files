@@ -1,0 +1,11 @@
+build:
+  version: "5.0.0"
+
+accounts:
+  message: "Welcome to JavaExpress accounts related QA APIs "
+  contactDetails:
+    name: "AMith - QA Lead"
+    email: "amith@javaexpress.com"
+  onCallSupport:
+    - (666) 265-3765
+    - (666) 734-8371
