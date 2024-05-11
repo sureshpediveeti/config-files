@@ -4,9 +4,9 @@ build:
 cards:
   message: "Hey, welcome to JavaExpress cards related prod APIs"
   contactDetails:
-    name: "Sandra Harald - Product Owner"
+    name: "Sandra Harald (Product Owner)"
     email: "sandra@eazybank.com"
   onCallSupport:
     - (617) 432-2356
     - (936) 564-8721
-    - 79969 30252
+    - (+91) 79969 30252
