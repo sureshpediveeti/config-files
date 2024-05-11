@@ -4,10 +4,10 @@ build:
 loans:
   message: "Hey, welcome to JavaExpress loans related prod APIs "
   contactDetails:
-    name: "Pelias Sudhir - Product Owner"
+    name: "Pelias Sudhir (Product Owner)"
     email: "pelias@eazybank.com"
   onCallSupport:
     - (723) 656-8709
     - (156) 342-0956
-    - (+91) 99161 66400
+    - (+91) 99161-66400
    
